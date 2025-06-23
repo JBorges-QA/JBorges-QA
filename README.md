@@ -24,7 +24,7 @@ Sou um profissional de **Quality Assurance (QA)** apaixonado por garantir a qual
 ---
 
 ### 🌱 **O que estou aprendendo atualmente**
-- Testes com **Cypress**
+- Desenvolvimento em C#
 ---
 
 ### 📫 **Entre em contato comigo**
