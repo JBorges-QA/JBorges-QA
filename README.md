@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou José Borges
 
 ### 🚀 **Sobre mim**
-Sou um profissional de **Quality Assurance (QA)** apaixonado por garantir a qualidade de software e melhorar a experiência dos usuários. Minha missão é ajudar equipes a entregar produtos com alta performance e confiabilidade.
+Sou um profissional de **Quality Assurance (QA)** e **Desenvolvimento** apaixonado por garantir a qualidade de software e melhorar a experiência dos usuários. Minha missão é ajudar equipes a entregar produtos com alta performance e confiabilidade.
 
 ---
 💡 **O que eu faço:**
