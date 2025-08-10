@@ -24,7 +24,7 @@ Sou um profissional de **Quality Assurance (QA)** e **Desenvolvimento** apaixona
 ---
 
 ### 🌱 **O que estou aprendendo atualmente**
-- Desenvolvimento em C#
+- Desenvolvimento em Golang
 ---
 
 ### 📫 **Entre em contato comigo**
